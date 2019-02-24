@@ -12,8 +12,8 @@ The derivation of the method in the code could be found in our paper:
 J. Zhong, L. Tian, P. Varma and L. Waller, "Nonlinear Optimization Algorithm for Partially Coherent Phase Retrieval and Source Recovery," in IEEE Transactions on Computational Imaging, vol. 2, no. 3, pp. 310-322, Sept. 2016.
 doi: 10.1109/TCI.2016.2571669
 
-*****************************HOW TO USE THECODE**************************
 
+*****************************HOW TO USE THECODE**************************
 Example data sets:
 The downloaded folder should include two defocus stack data sets: 
 •	a simulation data set, named ‘SimulationCoherentDefocusStack.mat’; 
