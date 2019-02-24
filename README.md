@@ -14,6 +14,7 @@ doi: 10.1109/TCI.2016.2571669
 
 
 *****************************HOW TO USE THECODE**************************
+
 Example data sets:
 The downloaded folder should include two defocus stack data sets: 
 •	a simulation data set, named ‘SimulationCoherentDefocusStack.mat’; 
